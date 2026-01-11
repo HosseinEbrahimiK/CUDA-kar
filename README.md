@@ -28,3 +28,4 @@ Each folder contains a topic, CUDA implementation, and a detailed explanation of
 - [CUDA Toolkit](https://developer.nvidia.com/cuda-downloads)
 - [CUDA Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)
 - [NVIDIA CUDA Samples](https://github.com/NVIDIA/cuda-samples)
+- [NVIDIA Optimizing Parallel Reduction in CUDA](https://developer.download.nvidia.com/assets/cuda/files/reduction.pdf)
